@@ -15,3 +15,9 @@ Clone this repo in git using the this command:
 ```
 https://github.com/GPN87/Matplotlib-project.git
 ```
+
+As well as numpy and matplotliv.pyplot, scipy.stats is required for standard error calculations.
+```
+from scipy import stats
+from scipy.stats import sem
+```
