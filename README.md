@@ -7,7 +7,7 @@ The notebook reads in the .csv files and performs a range of descriptive and inf
 - Summary charts of drug regimens by number of interventions
 - plots distribution of tumor volumen by drug type, as well as noting potential outliers.
 - a regression model of mouse weight vs tumor volume
-
+![boxplot of analysis](images/boxplot.png)
 A written analysis of findings is provided at the top of the notebook.
 
 ## How to run
